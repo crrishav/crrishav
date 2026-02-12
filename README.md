@@ -20,6 +20,13 @@ I am a Frontend & Mobile Developer focused on high-fidelity interactive experien
   <img src="https://skillicons.dev/icons?i=cs,unity,py,git" height="40" />
 </p>
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crrishav/crrishav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crrishav/crrishav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crrishav/crrishav/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&rank_icon=github)
 
