@@ -27,6 +27,6 @@ I am a Frontend & Mobile Developer focused on high-fidelity interactive experien
 
 | Project | Tech | Status |
 | :--- | :--- | :--- |
-| **GIG Marketplace** | React, Flutter, GSAP | [Live Demo](https://crrishav.vercel.app/) |
+| **GIG Marketplace** | React, Flutter, GSAP |
 | **Reddit Lead Hunter** | Python, Discord API | Active |
-| **Personal Portfolio** | React, GSAP, Lenis | [View Site](https://crrishav.vercel.app/) |
+| **Personal Portfolio** | React | [View Site](https://crrishav.vercel.app/) |
