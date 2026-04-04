@@ -34,6 +34,8 @@ I am a Frontend & Mobile Developer focused on high-fidelity interactive experien
 
 | Project | Tech | Status |
 | :--- | :--- | :--- |
-| **GIG Marketplace** | React, Flutter, GSAP | WIP |
-| **Reddit Lead Hunter** | Python, Discord API | Active |
-| **Personal Portfolio** | React | [View Site](https://crrishav.vercel.app/) |
+| **[Faisan Kaka](https://github.com/crrishav/Faisan-Kaka)** | React 19, Sanity, Tailwind v4, Framer Motion | [View Site](https://faisan-kaka.vercel.app/) |
+| **[MESS](https://github.com/crrishav/Mess)** | React 19, GSAP, Lenis, Tailwind v4 | WIP |
+| **GIG Marketplace** | React, Next.js, GSAP, Framer Motion | WIP |
+| **Reddit Lead Hunter** | Python, Discord API, Reddit API | Active |
+| **[Personal Portfolio](https://crrishav.vercel.app/)** | React, GSAP, Framer Motion | [View Site](https://crrishav.vercel.app/) |
