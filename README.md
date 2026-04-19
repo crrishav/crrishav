@@ -28,12 +28,13 @@ I am a Frontend & Mobile Developer focused on high-fidelity interactive experien
 </picture>
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=crrishav&show_icons=true&theme=transparent&rank_icon=github)
 
 ## 🚀 Featured Projects
 
 | Project | Tech | Status |
 | :--- | :--- | :--- |
+| **[Peak Digital](https://github.com/crrishav/Peak-Digital)** | React 19, Vite 7, Tailwind v4, Lenis | Active |
 | **[Faisan Kaka](https://github.com/crrishav/Faisan-Kaka)** | React 19, Sanity, Tailwind v4, Framer Motion | [View Site](https://faisan-kaka.vercel.app/) |
 | **[MESS](https://github.com/crrishav/Mess)** | React 19, GSAP, Lenis, Tailwind v4 | WIP |
 | **GIG Marketplace** | React, Next.js, GSAP, Framer Motion | WIP |
