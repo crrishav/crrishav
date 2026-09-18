@@ -23,15 +23,3 @@ I am a Frontend & Mobile Developer focused on high-fidelity interactive experien
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crrishav/crrishav/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crrishav/crrishav/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 🚀 Featured Projects
-
-| Project | Tech | Status |
-| :--- | :--- | :--- |
-| **[Shakahari Map](https://github.com/crrishav/Shakahari-Map)** | Flutter, Riverpod, Google Maps API, Dio | [Repo](https://github.com/crrishav/Shakahari-Map) |
-| **[Peak Digital](https://github.com/crrishav/Peak-Digital)** | React 19, Vite 7, Tailwind v4, Lenis | [View Site](https://peak-digital-agency.vercel.app/) |
-| **[Faisan Kaka](https://github.com/crrishav/Faisan-Kaka)** | React 19, Sanity, Tailwind v4, Framer Motion | [View Site](https://faisan-kaka.vercel.app/) |
-| **[MESS](https://github.com/crrishav/Mess)** | React 19, GSAP, Lenis, Tailwind v4 | WIP |
-| **GIG Marketplace** | React, Next.js, GSAP, Framer Motion | WIP |
-| **Reddit Lead Hunter** | Python, Discord API, Reddit API | Active |
-| **[Personal Portfolio](https://crrishav.vercel.app/)** | React, GSAP, Framer Motion | [View Site](https://crrishav.vercel.app/) |
