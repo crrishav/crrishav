@@ -1,6 +1,4 @@
 # Hi, I'm Rishav 👋
-
-## 🚀 About Me
 I am a Frontend & Mobile Developer focused on high-fidelity interactive experiences. I specialize in bringing complex designs to life with buttery-smooth animations using **GSAP** and **Framer Motion**. 
 
 ## 🛠 Tech Stack
