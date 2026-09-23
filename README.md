@@ -1,6 +1,5 @@
 # Hi, I'm Rishav 👋
 
-## 🛠 Tech Stack
 ### Primary Focus (Frontend & Mobile)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,js,dart,html,css" height="40" />
